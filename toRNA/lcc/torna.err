@@ -1,0 +1,16 @@
+c:\users\liafell\documents\git\c\torna\lcc\__check_torna.c:
+Error lcc\__check_torna.c: 10  undeclared identifier 'G'
+Error lcc\__check_torna.c: 10  undeclared identifier 'C'
+Error lcc\__check_torna.c: 10  undeclared identifier 'T'
+Error lcc\__check_torna.c: 10  undeclared identifier 'A'
+Warning lcc\__check_torna.c: 10   possible usage of G before definition
+Warning lcc\__check_torna.c: 10   possible usage of C before definition
+Warning lcc\__check_torna.c: 10   possible usage of T before definition
+Warning lcc\__check_torna.c: 10   possible usage of A before definition
+Warning lcc\__check_torna.c: 12  missing prototype for system
+Warning lcc\__check_torna.c: 12  Missing prototype for 'system'
+Warning lcc\__check_torna.c: 10   A is assigned a value that is never used
+Warning lcc\__check_torna.c: 10   T is assigned a value that is never used
+Warning lcc\__check_torna.c: 10   C is assigned a value that is never used
+Warning lcc\__check_torna.c: 10   G is assigned a value that is never used
+Warning lcc\__check_torna.c: 10   DNA is assigned a value that is never used
