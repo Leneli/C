@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\elenak\documents\git\c\ispowerofthree\ispowerofthree\source.c(23): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+  IsPowerOfThree.vcxproj -> C:\Users\elenak\Documents\GIT\C\IsPowerOfThree\Debug\IsPowerOfThree.exe
