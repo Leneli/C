@@ -1,0 +1,2 @@
+﻿  Source.c
+c:\users\elenak\documents\git\c\thecost\thecost\source.c(30): error C2166: левостороннее значение указывает на объект-константу (const)

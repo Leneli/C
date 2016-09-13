@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\elenak\documents\git\c\compareversion\compareversion\source.c(50): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  compareVersion.vcxproj -> C:\Users\elenak\Documents\GIT\C\compareVersion\Debug\compareVersion.exe
+  compareVersion.vcxproj -> C:\Users\elenak\Documents\GIT\C\compareVersion\Debug\compareVersion.pdb (Full PDB)
