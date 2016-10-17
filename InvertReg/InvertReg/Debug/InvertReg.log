@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\elenak\documents\git\c\invertreg\invertreg\source.c(20): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  InvertReg.vcxproj -> C:\Users\elenak\Documents\GIT\C\InvertReg\Debug\InvertReg.exe
+  InvertReg.vcxproj -> C:\Users\elenak\Documents\GIT\C\InvertReg\Debug\InvertReg.pdb (Full PDB)
